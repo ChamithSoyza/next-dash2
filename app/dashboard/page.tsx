@@ -1,3 +1,3 @@
 export default function(){
-    return <>Dash page</>
+    return <>Dashboard page</>
 }
